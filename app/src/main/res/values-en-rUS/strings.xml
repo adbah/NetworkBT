@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NetworkBT 1.0</string>
+    <string name="reset">Reset network</string>
+    <string name="mode">Select a mode</string>
+    <string name="addingNode">Add object</string>
+    <string name="addingArc">Add connection</string>
+    <string name="updateArcNode">Modify objetc/connection</string>
+    <string name="others">Others for 2.0</string>
+</resources>

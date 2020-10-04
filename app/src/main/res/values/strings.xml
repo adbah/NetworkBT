@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ReseauBT 1.0</string>
+    <string name="reset">Reinitialiser le reseau</string>
+    <string name="mode">Selectionner un mode</string>
+
+    <string name="addingNode">Ajouter objet</string>
+    <string name="addingArc">Ajouter connexion</string>
+    <string name="updateArcNode">Modifier objet/connexion</string>
+    <string name="others">Autres pour 2.0 version</string>
+</resources>
